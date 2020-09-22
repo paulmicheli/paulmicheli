@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**paulmicheli/paulmicheli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=paulmicheli&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
